@@ -20,13 +20,13 @@ https://drive.google.com/drive/folders/1vjSFdsJu83mxpvzGE25cpU3jC8LOBCRf?usp=sha
 ![Imagen de WhatsApp 2025-02-08 a las 10 58 53_0e215df8](https://github.com/user-attachments/assets/3352ce94-5569-46ea-9c01-06ea7d4b12cb)
 
 
-# Curso de Python 
+# Curso de Python 2
 ![image](https://github.com/user-attachments/assets/463640a5-8425-4719-9556-317d409bedeb)
 ![image](https://github.com/user-attachments/assets/0d8e145c-9076-4a19-9684-da15e6f9fc26)
 ![image](https://github.com/user-attachments/assets/09ad9c24-e6f5-42c0-a93d-8ccf79a0da3b)
 ![image](https://github.com/user-attachments/assets/7aa90f68-446f-4c11-8f8c-7530094397ec)
 
-# Examen Final de Curso 
+# Examen Final de Curso Phython 2
 ![image](https://github.com/user-attachments/assets/706abbd6-7a5d-4b4a-b59d-09cde2206814)
 
 
